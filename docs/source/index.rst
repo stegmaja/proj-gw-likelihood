@@ -1,9 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+**proj-gw-likelihood** is a Python library designed to compute the agreement of an astrophysical model with gravitational-wave observations.
+It pulls data from the `LIGO Scientific Collaboration, Virgo Collaboration and KAGRA Collaboration Data Releases <https://zenodo.org/communities/ligo-virgo-kagra?q=&l=list&p=1&s=10&sort=newest>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
